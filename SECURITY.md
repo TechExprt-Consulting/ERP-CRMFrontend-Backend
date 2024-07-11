@@ -1,4 +1,4 @@
-# Security Policy
+<!-- # Security Policy
 
 ## Supported Releases
 
@@ -57,4 +57,4 @@ We consider security research conducted under this policy to be:
 
 We appreciate your contributions to the security of this project and community.
 
-Thank you!
+Thank you! -->
